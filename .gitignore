@@ -1,0 +1,20 @@
+# MATLAB
+*.asv
+*.m~
+*.slxc
+*.autosave
+.SimulinkCache/
+slprj/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python / Caches
+__pycache__/
+*.pyc
+
+# Heavy temporary or log files
+*.log
+*.tmp
